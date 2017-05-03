@@ -1,0 +1,9 @@
+{
+  "name": "vt-oxid-scss-compiler",
+  "version": "0.1",
+  "homepage": "https://github.com/vanilla-thunder/oxid-scss",
+  "private": true,
+  "dependencies": {
+    "scssphp": "leafo/scssphp"
+  }
+}
